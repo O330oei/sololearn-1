@@ -1,2 +1,3 @@
 $ mkdir my_git_project
 $ cd my_git_project
+ $ ls -a /
