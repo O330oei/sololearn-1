@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+*.pem
+.env
+coverage
+lib
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
